@@ -1,0 +1,3 @@
+- insert:
+    - id: theme-plum-snow
+      name: '@local/dsh-theme-plum-snow'
